@@ -9,12 +9,3 @@ Project is created with:
 * Node version: 20.4.0
 * Express version: 4.18.2
 * Nodemon version: 2.0.22
-	
-## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../api-test
-$ npm install
-$ npm start
-```
